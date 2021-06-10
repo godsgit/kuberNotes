@@ -1,3 +1,3 @@
 # kuberNotes
 Notes for CKA Preparation
-test
+This is a test only.
